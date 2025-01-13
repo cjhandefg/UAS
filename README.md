@@ -1,5 +1,5 @@
-# tugas1-GIS
-Tugas 1 Sistem Informasi Geografis
+# UAS SIG 
+Ujian Akhir Semester Sistem Informasi Geografis
 Tujuan Tugas
 
 
