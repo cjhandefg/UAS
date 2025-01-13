@@ -1,5 +1,3 @@
-<!-- This should be in your edit-marker-modal.blade.php -->
- 
 <div class="modal fade" id="editMarkerModal" tabindex="-1" aria-labelledby="editMarkerModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -10,7 +8,7 @@
             <div class="modal-body">
             <form id="editMarkerForm" method="POST" enctype="multipart/form-data">
             @csrf
-            <input type="hidden" name="_method" value="PUT"> <!-- This line is important -->
+            <input type="hidden" name="_method" value="PUT">
             <input type="hidden" id="editMarkerId">
                     
                     <div class="mb-3">
